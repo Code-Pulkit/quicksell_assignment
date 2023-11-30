@@ -2,7 +2,7 @@
   "name": "kanban",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://code-pulkit.github.io/quicksell_assignment",
+  "homepage": "https://code-pulkit.github.io/quicksell_assignment/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.0",
     "@fortawesome/free-solid-svg-icons": "^6.5.0",
