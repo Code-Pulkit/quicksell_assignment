@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quicksell_assignment/static/css/main.af53c7f8.css",
+    "main.js": "/quicksell_assignment/static/js/main.b1144eb7.js",
+    "static/js/787.0659a4e7.chunk.js": "/quicksell_assignment/static/js/787.0659a4e7.chunk.js",
+    "index.html": "/quicksell_assignment/index.html",
+    "main.af53c7f8.css.map": "/quicksell_assignment/static/css/main.af53c7f8.css.map",
+    "main.b1144eb7.js.map": "/quicksell_assignment/static/js/main.b1144eb7.js.map",
+    "787.0659a4e7.chunk.js.map": "/quicksell_assignment/static/js/787.0659a4e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af53c7f8.css",
+    "static/js/main.b1144eb7.js"
+  ]
+}
